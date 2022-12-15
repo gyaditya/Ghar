@@ -1,0 +1,26 @@
+[
+    {
+      "title" : "Harry Potter and the Philosher's stone",
+      "author" : "J.K Rowling",
+      "isbn" : 545162076,
+      "genre" : "Fantasy"
+    },
+    {
+        "title" : "Masterminds Criminal Destiny",
+        "author" : "Gordon Corman",
+        "isbn" : 239203481,
+        "genre" : "Mystery"
+    },
+    {
+        "title" : "Caraval",
+        "author" : "Stephanie Garber",
+        "isbn" : 634854534,
+        "genre" : "Fantasy"
+    },
+    {
+        "title" : "Hamlet",
+        "author" : "William Shakespheare",
+        "isbn" : 239052359,
+        "genre" : "Drama"
+    }
+]
